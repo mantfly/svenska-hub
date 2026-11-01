@@ -1,0 +1,12 @@
+{
+  "name": "svenska-hub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "python3 assets/build.py",
+    "test": "node assets/check.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "24.1.3"
+  }
+}

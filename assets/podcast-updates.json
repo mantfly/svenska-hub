@@ -1,0 +1,349 @@
+{
+  "collection-podcasts-1": {
+    "feed": "https://feeds.feedburner.com/oneminuteswedish",
+    "checkedAt": "2026-10-29T15:25:19.489116+00:00",
+    "latest": {
+      "title": "A New Year Message from Radio Lingua",
+      "date": "2014-12-29T16:07:05+00:00",
+      "url": "https://radiolingua.com/2014/12/a-new-year-message-from-radio-lingua/",
+      "audio": "http://traffic.libsyn.com/radiolingua/rln-news-141228.mp3"
+    },
+    "episodes": [
+      {
+        "title": "A New Year Message from Radio Lingua",
+        "date": "2014-12-29T16:07:05+00:00",
+        "url": "https://radiolingua.com/2014/12/a-new-year-message-from-radio-lingua/",
+        "audio": "http://traffic.libsyn.com/radiolingua/rln-news-141228.mp3"
+      },
+      {
+        "title": "Radio Lingua News – 24 Dec 2012",
+        "date": "2012-12-24T15:52:37+00:00",
+        "url": "https://radiolingua.com/2012/12/radio-lingua-news-24-dec-2012/",
+        "audio": "http://traffic.libsyn.com/radiolingua/rln-news-121224.mp3"
+      },
+      {
+        "title": "Radio Lingua News – Launch Video",
+        "date": "2012-09-26T22:58:59+00:00",
+        "url": "https://radiolingua.com/2012/09/radio-lingua-news-launch-video/",
+        "audio": "http://traffic.libsyn.com/onlocationlanguages/rln-news-120926.m4v"
+      }
+    ],
+    "website": "http://radiolingua.com/shows/other-languages/one-minute-swedish/"
+  },
+  "collection-podcasts-2": {
+    "feed": "https://feeds.acast.com/public/shows/22083847-8ca0-434d-9684-2341e66a347f",
+    "checkedAt": "2026-10-29T15:25:19.499927+00:00",
+    "latest": {
+      "title": "CBSw TD 1.10 | Sol och bad på Tylösand",
+      "date": "2023-08-31T15:00:00+00:00",
+      "url": "https://shows.acast.com/coffeebreakswedish/episodes/cbsw-td-110-sol-och-bad-pa-tylosand",
+      "audio": "https://sphinx.acast.com/p/acast/s/coffeebreakswedish/e/64f03b2a3a574d0011f7e690/media.mp3"
+    },
+    "episodes": [
+      {
+        "title": "CBSw TD 1.10 | Sol och bad på Tylösand",
+        "date": "2023-08-31T15:00:00+00:00",
+        "url": "https://shows.acast.com/coffeebreakswedish/episodes/cbsw-td-110-sol-och-bad-pa-tylosand",
+        "audio": "https://sphinx.acast.com/p/acast/s/coffeebreakswedish/e/64f03b2a3a574d0011f7e690/media.mp3"
+      },
+      {
+        "title": "CBSw TD 1.09 | En spännande dag i Halmstad",
+        "date": "2023-08-17T15:00:00+00:00",
+        "url": "https://shows.acast.com/coffeebreakswedish/episodes/cbsw-td-109-en-spannande-dag-i-halmstad",
+        "audio": "https://sphinx.acast.com/p/acast/s/coffeebreakswedish/e/64dde85028b1cb00119ea19b/media.mp3"
+      },
+      {
+        "title": "CBSw TD 1.08 | Vinga - kompositörens lilla ö",
+        "date": "2023-08-03T15:00:00+00:00",
+        "url": "https://shows.acast.com/coffeebreakswedish/episodes/cbsw",
+        "audio": "https://sphinx.acast.com/p/acast/s/coffeebreakswedish/e/64cb5775002c6b00117f24fe/media.mp3"
+      }
+    ],
+    "website": "https://coffeebreaklanguages.com/swedish"
+  },
+  "collection-podcasts-3": {
+    "feed": "https://pod.sayitinswedish.com",
+    "checkedAt": "2026-10-29T15:25:19.700485+00:00",
+    "latest": {
+      "title": "Advanced #5 - Kanelbullens dag",
+      "date": "2026-10-08T11:12:07+00:00",
+      "url": "https://feeds.soundcloud.com/stream/2415241470-sayitinswedish-advanced-5-kanelbullens-dag.mp3",
+      "audio": "https://feeds.soundcloud.com/stream/2415241470-sayitinswedish-advanced-5-kanelbullens-dag.mp3"
+    },
+    "episodes": [
+      {
+        "title": "Advanced #5 - Kanelbullens dag",
+        "date": "2026-10-08T11:12:07+00:00",
+        "url": "https://feeds.soundcloud.com/stream/2415241470-sayitinswedish-advanced-5-kanelbullens-dag.mp3",
+        "audio": "https://feeds.soundcloud.com/stream/2415241470-sayitinswedish-advanced-5-kanelbullens-dag.mp3"
+      },
+      {
+        "title": "Slow Swedish #10 - Flygsemester",
+        "date": "2024-08-03T10:30:11+00:00",
+        "url": "https://feeds.soundcloud.com/stream/2395042230-sayitinswedish-slow-swedish-10-flygsemester.mp3",
+        "audio": "https://feeds.soundcloud.com/stream/2395042230-sayitinswedish-slow-swedish-10-flygsemester.mp3"
+      },
+      {
+        "title": "Slow Swedish #9 - Loppis",
+        "date": "2024-06-07T12:00:25+00:00",
+        "url": "https://feeds.soundcloud.com/stream/2395041336-sayitinswedish-slow-swedish-9-loppis.mp3",
+        "audio": "https://feeds.soundcloud.com/stream/2395041336-sayitinswedish-slow-swedish-9-loppis.mp3"
+      }
+    ],
+    "website": "https://www.sayitinswedish.com"
+  },
+  "collection-podcasts-4": {
+    "feed": "https://feeds.megaphone.fm/SNAB8713968606",
+    "checkedAt": "2026-10-29T15:25:20.617889+00:00",
+    "latest": {
+      "title": "433. Halloween",
+      "date": "2026-10-29T02:00:00+00:00",
+      "url": "https://traffic.megaphone.fm/SNAB5238785104.mp3",
+      "audio": "https://traffic.megaphone.fm/SNAB5238785104.mp3"
+    },
+    "episodes": [
+      {
+        "title": "433. Halloween",
+        "date": "2026-10-29T02:00:00+00:00",
+        "url": "https://traffic.megaphone.fm/SNAB5238785104.mp3",
+        "audio": "https://traffic.megaphone.fm/SNAB5238785104.mp3"
+      },
+      {
+        "title": "432. Det perfekta fredagsmyset",
+        "date": "2026-10-23T14:37:00+00:00",
+        "url": "https://traffic.megaphone.fm/SNAB8092159429.mp3",
+        "audio": "https://traffic.megaphone.fm/SNAB8092159429.mp3"
+      },
+      {
+        "title": "431. Skräpmat",
+        "date": "2026-10-16T14:17:00+00:00",
+        "url": "https://traffic.megaphone.fm/SNAB4259829874.mp3",
+        "audio": "https://traffic.megaphone.fm/SNAB4259829874.mp3"
+      }
+    ],
+    "website": "https://www.lattsvenskamedoskar.com/"
+  },
+  "collection-podcasts-5": {
+    "error": "Feed not found"
+  },
+  "collection-podcasts-6": {
+    "feed": "https://www.swedishpod101.com/wp-feed-audio-video.php",
+    "checkedAt": "2026-10-29T15:25:19.311664+00:00",
+    "latest": {
+      "title": "Absolute Beginner S1 Ep12: Telling the Time in Swedish",
+      "date": "2026-10-27T17:00:00+00:00",
+      "url": "https://www.swedishpod101.com/lesson/absolute-beginner-12-telling-the-time-in-swedish/?src=podcast_apple_swedish_absolute-beginner_12_(lesson)_2026-10-27&utm_source=apple&utm_medium=audio&utm_campaign=2026-10-27_absolute-beginner-s1-ep12-telling-the-time-in-swedish",
+      "audio": "https://mdn.illops.net/swedishpod101/AB_S1L12_032012_swpod101_podcast_audio.mp3"
+    },
+    "episodes": [
+      {
+        "title": "Absolute Beginner S1 Ep12: Telling the Time in Swedish",
+        "date": "2026-10-27T17:00:00+00:00",
+        "url": "https://www.swedishpod101.com/lesson/absolute-beginner-12-telling-the-time-in-swedish/?src=podcast_apple_swedish_absolute-beginner_12_(lesson)_2026-10-27&utm_source=apple&utm_medium=audio&utm_campaign=2026-10-27_absolute-beginner-s1-ep12-telling-the-time-in-swedish",
+        "audio": "https://mdn.illops.net/swedishpod101/AB_S1L12_032012_swpod101_podcast_audio.mp3"
+      },
+      {
+        "title": "Beginner S1 Ep11: Are You Having a Bad Day in Sweden?",
+        "date": "2026-10-24T17:00:00+00:00",
+        "url": "https://www.swedishpod101.com/lesson/beginner-11-are-you-having-a-bad-day-in-sweden/?src=podcast_apple_swedish_beginner_11_(lesson)_2026-10-24&utm_source=apple&utm_medium=audio&utm_campaign=2026-10-24_beginner-s1-ep11-are-you-having-a-bad-day-in-sweden",
+        "audio": "https://mdn.illops.net/swedishpod101/B_S1L11_031813_swpod101_podcast_audio.mp3"
+      },
+      {
+        "title": "Learn How to Understand Prices in Swedish in 3 Minutes",
+        "date": "2026-10-22T17:00:00+00:00",
+        "url": "https://www.swedishpod101.com/lesson/3minute-swedish-11-how-to-read-prices/?src=podcast_apple_swedish_3-minutes_11_(lesson)_2026-10-22&utm_source=apple&utm_medium=audio&utm_campaign=2026-10-22_learn-how-to-understand-prices-in-swedish-in-3-minutes",
+        "audio": "https://mdn.illops.net/swedishpod101/3MS_L11_091415_swpod101_podcast_audio.mp3"
+      }
+    ],
+    "website": "https://www.swedishpod101.com"
+  },
+  "collection-podcasts-7": {
+    "feed": "https://feed.podbean.com/arhus12/feed.xml",
+    "checkedAt": "2026-10-29T15:25:23.274631+00:00",
+    "latest": {
+      "title": "#341 - Maximal motivation i 8 steg",
+      "date": "2026-10-26T16:00:00+01:00",
+      "url": "https://arhus12.podbean.com/e/341-maximal-motivation-i-8-steg/",
+      "audio": "https://mcdn.podbean.com/mf/web/j2tf25yntuz8vyfr/SSP_341_-_Maximal_motivation_i_8_steg732mk.mp3"
+    },
+    "episodes": [
+      {
+        "title": "#341 - Maximal motivation i 8 steg",
+        "date": "2026-10-26T16:00:00+01:00",
+        "url": "https://arhus12.podbean.com/e/341-maximal-motivation-i-8-steg/",
+        "audio": "https://mcdn.podbean.com/mf/web/j2tf25yntuz8vyfr/SSP_341_-_Maximal_motivation_i_8_steg732mk.mp3"
+      },
+      {
+        "title": "#340 - 2 månader i Sverige (och vikten av upplevelser i språket)",
+        "date": "2026-10-19T08:00:00+02:00",
+        "url": "https://arhus12.podbean.com/e/340-2-manader-i-sverige-och-vikten-av-upplevelser-i-spraket/",
+        "audio": "https://mcdn.podbean.com/mf/web/t6kn9vbvu7j2wpzr/_340_-_2_m_nader_i_Sverige_och_vikten_av_upplevelser_i_spr_ketbacbr.mp3"
+      },
+      {
+        "title": "#339 - Följ med till matbutiken! (come with me to the grocery store)",
+        "date": "2026-10-12T08:00:00+02:00",
+        "url": "https://arhus12.podbean.com/e/339-folj-med-till-matbutiken-come-with-me-to-the-grocery-store/",
+        "audio": "https://mcdn.podbean.com/mf/web/9mvhi6ewh4uxbkg5/SSP_339_-_F_lj_med_till_matvarubutiken6h0zs.mp3"
+      }
+    ],
+    "website": "https://arhus12.podbean.com"
+  },
+  "collection-podcasts-8": {
+    "error": "Feed not found"
+  },
+  "collection-podcasts-9": {
+    "feed": "https://public-api.sr.se/rss/radio-sweden-pa-latt-svenska",
+    "checkedAt": "2026-10-29T15:25:22.532794+00:00",
+    "latest": {
+      "title": "Onsdag 28 oktober 2026",
+      "date": "2026-10-28T15:42:00+00:00",
+      "url": "https://www.sverigesradio.se/avsnitt/onsdag-28-oktober-2026",
+      "audio": "https://static-cdn.sr.se/laddahem/podradio/2026/10/radio_sweden_pa_latt_svenska_onsdag_28_oktober_2026_20261028_1642594294.mp3"
+    },
+    "episodes": [
+      {
+        "title": "Onsdag 28 oktober 2026",
+        "date": "2026-10-28T15:42:00+00:00",
+        "url": "https://www.sverigesradio.se/avsnitt/onsdag-28-oktober-2026",
+        "audio": "https://static-cdn.sr.se/laddahem/podradio/2026/10/radio_sweden_pa_latt_svenska_onsdag_28_oktober_2026_20261028_1642594294.mp3"
+      },
+      {
+        "title": "Tisdag 27 oktober 2026",
+        "date": "2026-10-27T15:14:00+00:00",
+        "url": "https://www.sverigesradio.se/avsnitt/tisdag-27-oktober-2026",
+        "audio": "https://static-cdn.sr.se/laddahem/podradio/2026/10/program_1027_podd_ltt_20261027_1609315678.mp3"
+      },
+      {
+        "title": "Måndag 26 oktober 2026",
+        "date": "2026-10-26T14:50:00+00:00",
+        "url": "https://www.sverigesradio.se/avsnitt/mandag-26-oktober-2026",
+        "audio": "https://static-cdn.sr.se/laddahem/podradio/2026/10/radio_sweden_pa_latt_svenska_mandag_26_oktober_2026_20261026_1547528633.mp3"
+      }
+    ],
+    "website": "https://www.sverigesradio.se/poddar/radio-sweden-pa-latt-svenska"
+  },
+  "collection-podcasts-10": {
+    "feed": "https://feed.pod.space/livetpalattsvenska",
+    "checkedAt": "2026-10-29T15:25:24.902411+00:00",
+    "latest": {
+      "title": "#111 Vi fortsätter på en annan plats",
+      "date": "2026-01-27T05:00:00+00:00",
+      "url": "https://pod.space/livetpalattsvenska/111-vi-fortsatter-pa-en-annan-plats",
+      "audio": "https://media.pod.space/livetpalattsvenska/111-om-patreon.mp3"
+    },
+    "episodes": [
+      {
+        "title": "#111 Vi fortsätter på en annan plats",
+        "date": "2026-01-27T05:00:00+00:00",
+        "url": "https://pod.space/livetpalattsvenska/111-vi-fortsatter-pa-en-annan-plats",
+        "audio": "https://media.pod.space/livetpalattsvenska/111-om-patreon.mp3"
+      },
+      {
+        "title": "#110 Sista avsnittet",
+        "date": "2025-11-04T02:00:00+00:00",
+        "url": "https://pod.space/livetpalattsvenska/110-sista-avsnittet",
+        "audio": "https://media.pod.space/livetpalattsvenska/podd-110-sista-avsnittet-lardomar-om-sprak.mp3"
+      },
+      {
+        "title": "#109 Förnya sig",
+        "date": "2025-10-28T02:00:00+00:00",
+        "url": "https://pod.space/livetpalattsvenska/109-fornya-sig",
+        "audio": "https://media.pod.space/livetpalattsvenska/109-fornya-sig.mp3"
+      }
+    ],
+    "website": "https://saraslattlasta.wordpress.com/podd-livet-pa-latt-svenska/"
+  },
+  "collection-podcasts-11": {
+    "feed": "https://8sidor.se/feed/podcast/",
+    "checkedAt": "2026-10-29T15:25:20.545557+00:00",
+    "latest": {
+      "title": "Nyheter på lätt svenska den 29 oktober",
+      "date": "2026-10-29T08:55:23+00:00",
+      "url": "https://8sidor.se/lyssna/2026/10/nyheter-pa-latt-svenska-den-29-oktober-5/",
+      "audio": "https://8sidor.se/app/uploads/2026/10/261029.mp3"
+    },
+    "episodes": [
+      {
+        "title": "Nyheter på lätt svenska den 29 oktober",
+        "date": "2026-10-29T08:55:23+00:00",
+        "url": "https://8sidor.se/lyssna/2026/10/nyheter-pa-latt-svenska-den-29-oktober-5/",
+        "audio": "https://8sidor.se/app/uploads/2026/10/261029.mp3"
+      },
+      {
+        "title": "Nyheter på lätt svenska den 28 oktober",
+        "date": "2026-10-28T09:07:23+00:00",
+        "url": "https://8sidor.se/lyssna/2026/10/nyheter-pa-latt-svenska-den-28-oktober-6/",
+        "audio": "https://8sidor.se/app/uploads/2026/10/261028.mp3"
+      },
+      {
+        "title": "Nyheter på lätt svenska den 27 oktober",
+        "date": "2026-10-27T09:08:24+00:00",
+        "url": "https://8sidor.se/lyssna/2026/10/lattlasta-nyheter-den-27-oktober/",
+        "audio": "https://8sidor.se/app/uploads/2026/10/261027.mp3"
+      }
+    ],
+    "website": "https://8sidor.se"
+  },
+  "collection-podcasts-12": {
+    "feed": "https://public-api.sr.se/rss/spraket",
+    "checkedAt": "2026-10-29T15:25:22.553305+00:00",
+    "latest": {
+      "title": "Därför stavar vi inte som det låter",
+      "date": "2026-10-26T04:00:00+00:00",
+      "url": "https://www.sverigesradio.se/avsnitt/darfor-stavar-vi-inte-som-det-later",
+      "audio": "https://static-cdn.sr.se/laddahem/podradio/2026/10/spraket_darfor_stavar_vi_inte_som_det_20261021_1256313723.mp3"
+    },
+    "episodes": [
+      {
+        "title": "Därför stavar vi inte som det låter",
+        "date": "2026-10-26T04:00:00+00:00",
+        "url": "https://www.sverigesradio.se/avsnitt/darfor-stavar-vi-inte-som-det-later",
+        "audio": "https://static-cdn.sr.se/laddahem/podradio/2026/10/spraket_darfor_stavar_vi_inte_som_det_20261021_1256313723.mp3"
+      },
+      {
+        "title": "I ett nötskal och andra uttryck vi använder men inte riktigt förstår",
+        "date": "2026-10-19T03:00:00+00:00",
+        "url": "https://www.sverigesradio.se/avsnitt/i-ett-notskal-och-andra-uttryck-vi-anvander-men-inte-riktigt-forstar",
+        "audio": "https://static-cdn.sr.se/laddahem/podradio/2026/10/spraket_i_ett_notskal_och_andrauttryc_20261015_1417317648.mp3"
+      },
+      {
+        "title": "Därför heter det inte ackusativobjekt och dativobjekt",
+        "date": "2026-10-12T03:00:00+00:00",
+        "url": "https://www.sverigesradio.se/avsnitt/darfor-heter-det-inte-dativobjekt-och-ackusativobjekt",
+        "audio": "https://static-cdn.sr.se/laddahem/podradio/2026/10/spraket_darfor_heter_det_inte_ackusati_20261009_1046533605.mp3"
+      }
+    ],
+    "website": "https://www.sverigesradio.se/poddar/spraket"
+  },
+  "collection-podcasts-13": {
+    "feed": "https://rss.podplaystudio.com/479.xml",
+    "checkedAt": "2026-10-29T15:25:22.670221+00:00",
+    "latest": {
+      "title": "336. Det sista avsnittet",
+      "date": "2024-05-06T01:00:00+00:00",
+      "url": "https://bauernordic-pods.sharp-stream.com/479/faek_e336_v2_72bb3c04_normal.mp3?aw_0_1st.episodeid=247611&aw_0_1st.collectionid=479&aw_0_1st.bauer_context_ag=%5B%22b%22%2C%22c%22%5D&aw_0_1st.bauer_context_g=%5B%22a%22%2C%22b%22%5D",
+      "audio": "https://bauernordic-pods.sharp-stream.com/479/faek_e336_v2_72bb3c04_normal.mp3?aw_0_1st.episodeid=247611&aw_0_1st.collectionid=479&aw_0_1st.bauer_context_ag=%5B%22b%22%2C%22c%22%5D&aw_0_1st.bauer_context_g=%5B%22a%22%2C%22b%22%5D"
+    },
+    "episodes": [
+      {
+        "title": "336. Det sista avsnittet",
+        "date": "2024-05-06T01:00:00+00:00",
+        "url": "https://bauernordic-pods.sharp-stream.com/479/faek_e336_v2_72bb3c04_normal.mp3?aw_0_1st.episodeid=247611&aw_0_1st.collectionid=479&aw_0_1st.bauer_context_ag=%5B%22b%22%2C%22c%22%5D&aw_0_1st.bauer_context_g=%5B%22a%22%2C%22b%22%5D",
+        "audio": "https://bauernordic-pods.sharp-stream.com/479/faek_e336_v2_72bb3c04_normal.mp3?aw_0_1st.episodeid=247611&aw_0_1st.collectionid=479&aw_0_1st.bauer_context_ag=%5B%22b%22%2C%22c%22%5D&aw_0_1st.bauer_context_g=%5B%22a%22%2C%22b%22%5D"
+      },
+      {
+        "title": "335. Hur man lindar in dåliga nyheter på bästa sätt",
+        "date": "2024-04-29T01:00:00+00:00",
+        "url": "https://bauernordic-pods.sharp-stream.com/479/faek_e335_v2_9cd481b4_normal.mp3?aw_0_1st.episodeid=246539&aw_0_1st.collectionid=479&aw_0_1st.bauer_context_ag=%5B%22b%22%2C%22c%22%5D&aw_0_1st.bauer_context_g=%5B%22a%22%2C%22b%22%5D",
+        "audio": "https://bauernordic-pods.sharp-stream.com/479/faek_e335_v2_9cd481b4_normal.mp3?aw_0_1st.episodeid=246539&aw_0_1st.collectionid=479&aw_0_1st.bauer_context_ag=%5B%22b%22%2C%22c%22%5D&aw_0_1st.bauer_context_g=%5B%22a%22%2C%22b%22%5D"
+      },
+      {
+        "title": "334. En katt som säger schmauk",
+        "date": "2024-04-22T01:00:00+00:00",
+        "url": "https://bauernordic-pods.sharp-stream.com/479/faek_334_fce2d46a_normal.mp3?aw_0_1st.episodeid=245732&aw_0_1st.collectionid=479&aw_0_1st.bauer_context_ag=%5B%22b%22%2C%22c%22%5D&aw_0_1st.bauer_context_g=%5B%22a%22%2C%22b%22%5D",
+        "audio": "https://bauernordic-pods.sharp-stream.com/479/faek_334_fce2d46a_normal.mp3?aw_0_1st.episodeid=245732&aw_0_1st.collectionid=479&aw_0_1st.bauer_context_ag=%5B%22b%22%2C%22c%22%5D&aw_0_1st.bauer_context_g=%5B%22a%22%2C%22b%22%5D"
+      }
+    ],
+    "website": "https://www.podplay.com/sv/podcast/49422/fragar-at-en-kompis"
+  }
+}

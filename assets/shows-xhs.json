@@ -1,0 +1,72 @@
+[
+  {
+    "id": "show-bron",
+    "title": "桥 / Bron/Broen",
+    "category": "films",
+    "subcategory": "悬疑",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.svtplay.se/bron",
+    "description": "围绕厄勒海峡大桥上的跨国案件展开，瑞典与丹麦警探联手调查。原分享推荐其克制的北欧氛围、社会议题与反转。包含瑞典语和丹麦语对白。"
+  },
+  {
+    "id": "show-kalifat",
+    "title": "卡莉法 / Kalifat",
+    "category": "films",
+    "subcategory": "悬疑",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.svtplay.se/kalifat",
+    "description": "SVT 的反恐题材惊悚剧，多名女性的命运在宗教极端主义与安全调查中交织。原分享认为悬念强、氛围压抑，适合有一定基础后观看。"
+  },
+  {
+    "id": "show-synden",
+    "title": "罪土 / Synden",
+    "category": "films",
+    "subcategory": "悬疑",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.netflix.com/synden",
+    "description": "2026 年推出的 Netflix 瑞典犯罪剧。斯科讷乡间的一起少年死亡案件，引出调查员与当地家族之间的纠葛，以及延续多代的冲突。"
+  },
+  {
+    "id": "show-young-royals",
+    "title": "青春王室 / Young Royals",
+    "category": "films",
+    "subcategory": "青春成长",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.netflix.com/search?q=Young%20Royals",
+    "description": "王子在寄宿学校探索感情与自我，面对王室责任和个人选择之间的冲突。原分享推荐其细腻的情感表达，可留意同龄人交流和校园生活用语。"
+  },
+  {
+    "id": "show-trettiplus",
+    "title": "Trettiplus",
+    "category": "films",
+    "subcategory": "生活喜剧",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.svtplay.se/trettiplus",
+    "description": "SVT 由 Stallet 创作的生活幽默短剧，围绕三十岁后的关系、育儿与成年生活展开。原分享写作 Trettioplus，此处按官方名称整理。可结合字幕积累生活表达，幽默和口语不一定适合零基础。"
+  },
+  {
+    "id": "show-tunna-bla-linjen",
+    "title": "蓝线 / Tunna blå linjen",
+    "category": "films",
+    "subcategory": "生活与家庭",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.svtplay.se/tunna-bla-linjen",
+    "description": "以马尔默警察的工作与生活为中心，关注职业压力、家庭和社会问题。原分享推荐其自然的对话，可留意职场交流；题材也包含沉重的现实处境。"
+  },
+  {
+    "id": "show-halla-samman",
+    "title": "团结在一起 / Hålla samman",
+    "category": "films",
+    "subcategory": "生活与家庭",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.svtplay.se/halla-samman",
+    "description": "家庭题材剧，围绕父亲的阿尔茨海默病，以及女儿们和家人在变化中如何相处展开。原分享推荐其贴近日常的关系与生活对话。"
+  }
+]

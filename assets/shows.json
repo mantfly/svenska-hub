@@ -1,0 +1,233 @@
+[
+  {
+    "id": "show-hitta-hem",
+    "title": "Hitta hem",
+    "category": "films",
+    "subcategory": "SFI 入门",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://urplay.se/program/223108-hitta-hem-familjen",
+    "description": "UR Play 的 SFI 学习剧，围绕来到瑞典后的生活、关系与融入展开。单集较短，不同季与集数时长不同。学习方法：打开 Pedagogiskt material → Programmanus，下载对应集的台词 PDF，结合字幕与音频练习。",
+    "learningTip": "先完整看一遍，再对照 Programmanus 标出生词，最后选几句跟读。"
+  },
+  {
+    "id": "show-terese",
+    "title": "Terese i kassan",
+    "category": "films",
+    "subcategory": "生活喜剧",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.svtplay.se/terese-i-kassan",
+    "description": "原分享观看范围：S1–3。起初觉得表演夸张，之后喜欢上主角的毒舌、抽象与细腻；台词和剧情中的呼应设计值得留意。"
+  },
+  {
+    "id": "show-familjen-andersson",
+    "title": "Familjen Andersson",
+    "category": "films",
+    "subcategory": "生活喜剧",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.tv4play.se/sok?q=Familjen%20Andersson",
+    "description": "原分享观看范围：S1–2。家庭日常与荒诞喜剧；分享者更喜欢第一季，对第二季评价较保留。"
+  },
+  {
+    "id": "show-trevlig-helg",
+    "title": "Trevlig helg",
+    "category": "films",
+    "subcategory": "生活喜剧",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.svtplay.se/trevlig-helg",
+    "description": "原分享观看范围：S1–2。演员分饰多角的情景喜剧，适合轻松看，接触不同人物的生活表达。"
+  },
+  {
+    "id": "show-gransfall",
+    "title": "Gränsfall",
+    "category": "films",
+    "subcategory": "生活喜剧",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.svtplay.se/gransfall",
+    "description": "原分享观看范围：S1。两个状况不断的轮渡边检人员，阴差阳错卷入犯罪事件；带有无厘头色彩。"
+  },
+  {
+    "id": "show-karlek-anarki",
+    "title": "Kärlek och anarki",
+    "category": "films",
+    "subcategory": "爱情与关系",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.netflix.com/search?q=K%C3%A4rlek%20och%20anarki",
+    "description": "原分享看点：年龄差恋情、对年龄的焦虑，以及如何摆脱他人定义、面对内心情感。"
+  },
+  {
+    "id": "show-alska-mig",
+    "title": "Älska mig",
+    "category": "films",
+    "subcategory": "爱情与关系",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://viaplay.se/sok?query=%C3%84lska%20mig",
+    "description": "原分享观看范围：S1–2。关注不同人生阶段的人如何理解爱情，以及情感与家庭、职场之间的关系。"
+  },
+  {
+    "id": "show-love-is-blind",
+    "title": "Love Is Blind: Sverige",
+    "category": "films",
+    "subcategory": "爱情与关系",
+    "level": "全部",
+    "mediaType": "reality",
+    "url": "https://www.netflix.com/search?q=Love%20Is%20Blind%20Sverige",
+    "description": "瑞典语恋爱真人秀。原分享侧重听力练习：参与者的日常交谈较贴近真实聊天节奏，适合留意口语、省略和语气。"
+  },
+  {
+    "id": "show-gift",
+    "title": "Gift vid första ögonkastet",
+    "category": "films",
+    "subcategory": "爱情与关系",
+    "level": "全部",
+    "mediaType": "reality",
+    "url": "https://www.svtplay.se/gift-vid-forsta-ogonkastet",
+    "description": "瑞典关系类真人秀。原分享建议关注采访和独白片段，学习如何较长篇地表达想法、感受与理由。"
+  },
+  {
+    "id": "show-slapp-taget",
+    "title": "Släpp taget",
+    "category": "films",
+    "subcategory": "爱情与关系",
+    "level": "全部",
+    "mediaType": "film",
+    "url": "https://www.netflix.com/se/title/81611209",
+    "description": "原分享看点：一位忙于家庭、感到不被理解的母亲，面对子女和伴侣的变化，重新审视自己与关系。"
+  },
+  {
+    "id": "show-trolosa",
+    "title": "Trolösa",
+    "category": "films",
+    "subcategory": "爱情与关系",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.svtplay.se/trolosa",
+    "description": "原分享看点：台词较少，镜头语言、布景与色彩更突出；适合关注克制的情绪表达。"
+  },
+  {
+    "id": "show-tore",
+    "title": "Tore",
+    "category": "films",
+    "subcategory": "爱情与关系",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.netflix.com/search?q=Tore",
+    "description": "原分享看点：从疑惑、挣扎到接纳自己并尝试表达的心理过程，情绪压抑中也有温暖。"
+  },
+  {
+    "id": "show-sjukt-oklar",
+    "title": "Sjukt oklar",
+    "category": "films",
+    "subcategory": "会心一笑",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.svtplay.se/sjukt-oklar",
+    "description": "原分享观看范围：S1–2。面对糟心事和不顺时，带着一点无奈继续生活的轻喜剧。"
+  },
+  {
+    "id": "show-antligen",
+    "title": "Äntligen!",
+    "category": "films",
+    "subcategory": "会心一笑",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.svtplay.se/antligen",
+    "description": "原分享看点：不要因为开场的奇想设定而太快放弃，故事更值得品味的是时间沉淀后的友情。"
+  },
+  {
+    "id": "show-sjukt",
+    "title": "Sjukt",
+    "category": "films",
+    "subcategory": "会心一笑",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.svtplay.se/sjukt",
+    "description": "原分享看点：疾病如何改变一个人，也如何让身边的亲友被迫调整生活，兼有痛苦与温情。"
+  },
+  {
+    "id": "show-noa-nyman",
+    "title": "Nya Noa Nyman",
+    "category": "films",
+    "subcategory": "会心一笑",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.svtplay.se/nya-noa-nyman",
+    "description": "原分享看点：借时空主题回望人生选择，不必把没有走过的那条路想得更美好。"
+  },
+  {
+    "id": "show-anxious",
+    "title": "Anxious People / Folk med ångest",
+    "category": "films",
+    "subcategory": "悬疑",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.netflix.com/search?q=Folk%20med%20%C3%A5ngest",
+    "description": "Fredrik Backman 同名小说改编。原分享认为它在悬疑之外也很暖心，关注日常困境中的人。"
+  },
+  {
+    "id": "show-quicksand",
+    "title": "Quicksand / Störst av allt",
+    "category": "films",
+    "subcategory": "悬疑",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.netflix.com/search?q=Quicksand",
+    "description": "原分享看点：随着事件动机逐渐清晰，回看人物选择与自己对他们的判断。"
+  },
+  {
+    "id": "show-osannolika",
+    "title": "Den osannolika mördaren",
+    "category": "films",
+    "subcategory": "悬疑",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.netflix.com/search?q=Den%20osannolika%20m%C3%B6rdaren",
+    "description": "围绕瑞典首相遇刺事件的剧情演绎。原分享关注真实事件背景及嫌疑人身份的争议；剧中呈现不等同于司法定论。"
+  },
+  {
+    "id": "show-vanlig-familj",
+    "title": "En helt vanlig familj",
+    "category": "films",
+    "subcategory": "悬疑",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.netflix.com/search?q=En%20helt%20vanlig%20familj",
+    "description": "同名小说改编。原分享看点：审判、残缺的回忆与家庭成员之间的关系。"
+  },
+  {
+    "id": "show-aremorden",
+    "title": "Åremorden",
+    "category": "films",
+    "subcategory": "悬疑",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.netflix.com/search?q=%C3%85remorden",
+    "description": "原分享看点：跟随调查发展猜测凶手，也将它与其他瑞典悬疑作品作比较。"
+  },
+  {
+    "id": "show-sandhamn",
+    "title": "Morden i Sandhamn",
+    "category": "films",
+    "subcategory": "悬疑",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.tv4play.se/sok?q=Morden%20i%20Sandhamn",
+    "description": "原分享观看范围：S1–5。小岛案件与反转，分享者对女主反复碰巧参与关键线索的设定有所保留。"
+  },
+  {
+    "id": "show-fallet",
+    "title": "Fallet",
+    "category": "films",
+    "subcategory": "悬疑",
+    "level": "全部",
+    "mediaType": "series",
+    "url": "https://www.svtplay.se/fallet",
+    "description": "原分享看点：悬疑里穿插冷幽默，有时是带着无语的会心一笑。"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "national": "https://utbildningsguiden.skolverket.se/utbildning-for-vuxna/om-utbildningar-for-vuxna/om-komvux-i-svenska-for-invandrare-sfi",
+  "directory": "https://skr.se/kommunerochregioner/kommunerlista.8288.html",
+  "checked": "2026-10-30",
+  "municipalities": [
+    {
+      "name": "Stockholm",
+      "zh": "斯德哥尔摩",
+      "url": "https://vuxenutbildning.stockholm/sfi/"
+    },
+    {
+      "name": "Solna",
+      "zh": "索尔纳",
+      "url": "https://www.solna.se/barn--utbildning/svenska-for-invandrare-sfi/svenska-for-invandrare-sfi"
+    },
+    {
+      "name": "Sundbyberg",
+      "zh": "松德比贝里",
+      "url": "https://www.sundbyberg.se/omsorg-och-stod/nyanland-i-sundbyberg/sfi-svenska-for-invandrare"
+    },
+    {
+      "name": "Uppsala",
+      "zh": "乌普萨拉",
+      "url": "https://ujc-komvux.uppsala.se/vara-utbildningar/svenska-for-invandrare-sfi/ansok-till-sfi/"
+    },
+    {
+      "name": "Göteborg",
+      "zh": "哥德堡",
+      "url": "https://goteborg.se/wps/portal?uri=gbglnk%3A2024131104032727"
+    },
+    {
+      "name": "Malmö",
+      "zh": "马尔默",
+      "url": "https://malmo.se/sfi-anmalan"
+    }
+  ]
+}

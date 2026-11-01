@@ -1,0 +1,623 @@
+[
+  {
+    "id": "seed-0",
+    "title": "SFI — Solna 申请信息",
+    "page": "https://www.solna.se/sfi",
+    "file": "covers/sfi-national.png",
+    "url": "https://utbildningsguiden.skolverket.se/images/18.bb68c59198bae9ab6a7/1755507242012/ogimage.png",
+    "mime": "image/png",
+    "bytes": 15099
+  },
+  {
+    "id": "seed-5",
+    "title": "Svenska.se",
+    "page": "https://svenska.se/",
+    "file": "covers/seed-5.jpg",
+    "url": "https://svenska.se/og-default.jpg",
+    "mime": "image/jpeg",
+    "bytes": 299792
+  },
+  {
+    "id": "collection-podcasts-1",
+    "title": "One Minute Swedish",
+    "matched": "One Minute Swedish",
+    "page": "https://podcasts.apple.com/se/podcast/one-minute-swedish/id400177897?uo=4",
+    "score": 2.0,
+    "file": "covers/collection-podcasts-1.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts2/v4/b1/f8/a7/b1f8a78c-a196-11ea-9bdd-6c2f7ca7356a/mza_7525493203413931987.jpg/600x600bb.jpg",
+    "mime": "image/jpeg",
+    "bytes": 44543
+  },
+  {
+    "id": "collection-podcasts-2",
+    "title": "Coffee Break Swedish",
+    "matched": "Coffee Break Swedish",
+    "page": "https://podcasts.apple.com/se/podcast/coffee-break-swedish/id1494880178?uo=4",
+    "score": 2.0,
+    "file": "covers/collection-podcasts-2.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6e/22/61/6e22617a-238b-7673-e692-986f3d920ae2/mza_18089622426086383544.jpg/600x600bb.jpg",
+    "mime": "image/jpeg",
+    "bytes": 40149
+  },
+  {
+    "id": "collection-podcasts-3",
+    "title": "Say It In Swedish",
+    "matched": "Learn Swedish for free with Say It In Swedish",
+    "page": "https://podcasts.apple.com/se/podcast/learn-swedish-for-free-with-say-it-in-swedish/id6825203707?uo=4",
+    "score": 1.0,
+    "file": "covers/collection-podcasts-3.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/50/1d/d4/501dd4e8-1fd2-4fc5-0ee6-cb6e7082196f/mza_10329945193916854631.jpg/600x600bb.jpg",
+    "mime": "image/jpeg",
+    "bytes": 167186
+  },
+  {
+    "id": "collection-podcasts-4",
+    "title": "Lätt Svenska med Oskar",
+    "matched": "Swedish podcast for beginners (Lätt svenska med Oskar)",
+    "page": "https://podcasts.apple.com/se/podcast/swedish-podcast-for-beginners-l%C3%A4tt-svenska-med-oskar/id1579313463?uo=4",
+    "score": 1.0,
+    "file": "covers/collection-podcasts-4.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f7/a0/11/f7a01146-7dd6-54b9-b499-6308612890a4/mza_15707582091427408462.jpeg/600x600bb.jpg",
+    "mime": "image/jpeg",
+    "bytes": 55914
+  },
+  {
+    "id": "collection-podcasts-6",
+    "title": "SwedishPod101",
+    "matched": "Learn Swedish | SwedishPod101.com",
+    "page": "https://podcasts.apple.com/se/podcast/learn-swedish-swedishpod101-com/id448504398?uo=4",
+    "score": 1.0,
+    "file": "covers/collection-podcasts-6.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f5/79/b0/f579b0cc-f940-399f-4fb2-d11a8ecdd104/mza_5224083623620606617.jpg/600x600bb.jpg",
+    "mime": "image/jpeg",
+    "bytes": 103521
+  },
+  {
+    "id": "collection-podcasts-7",
+    "title": "Simple Swedish Podcast",
+    "matched": "Simple Swedish Podcast",
+    "page": "https://podcasts.apple.com/se/podcast/simple-swedish-podcast/id1476144135?uo=4",
+    "score": 2.0,
+    "file": "covers/collection-podcasts-7.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/01/ed/eb/01edeb78-021e-9e19-a757-3ebedefdebb6/mza_1232582255841266061.png/600x600bb.jpg",
+    "mime": "image/jpeg",
+    "bytes": 69523
+  },
+  {
+    "id": "collection-podcasts-9",
+    "title": "Radio Sweden på lätt svenska",
+    "matched": "Radio Sweden på lätt svenska",
+    "page": "https://podcasts.apple.com/se/podcast/radio-sweden-p%C3%A5-l%C3%A4tt-svenska/id1081830394?uo=4",
+    "score": 2.0,
+    "file": "covers/collection-podcasts-9.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b2/f0/ad/b2f0adac-9d22-a059-bca2-f6b81534b3aa/mza_5858332891363841368.jpg/600x600bb.jpg",
+    "mime": "image/jpeg",
+    "bytes": 91343
+  },
+  {
+    "id": "collection-podcasts-10",
+    "title": "Livet på lätt svenska",
+    "matched": "Livet på lätt svenska",
+    "page": "https://podcasts.apple.com/se/podcast/livet-p%C3%A5-l%C3%A4tt-svenska/id1664135550?uo=4",
+    "score": 2.0,
+    "file": "covers/collection-podcasts-10.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f2/d6/23/f2d623c7-f862-a871-6592-134e7645337f/mza_14019908606995265830.jpg/600x600bb.jpg",
+    "mime": "image/jpeg",
+    "bytes": 93671
+  },
+  {
+    "id": "collection-podcasts-11",
+    "title": "8 Sidor",
+    "matched": "8 Sidor",
+    "page": "https://podcasts.apple.com/se/podcast/8-sidor/id1331393097?uo=4",
+    "score": 2.0,
+    "file": "covers/collection-podcasts-11.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/68/07/25/68072513-5ba1-8b9b-7b7f-21b43c0c4902/mza_361343461478346442.jpg/600x600bb.jpg",
+    "mime": "image/jpeg",
+    "bytes": 25231
+  },
+  {
+    "id": "collection-podcasts-12",
+    "title": "Språket",
+    "matched": "Språket",
+    "page": "https://podcasts.apple.com/se/podcast/spr%C3%A5ket/id308296160?uo=4",
+    "score": 2.0,
+    "file": "covers/collection-podcasts-12.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8b/1a/c3/8b1ac3d0-80fd-69d3-aa4e-0b553069f47e/mza_4277642970999245751.jpg/600x600bb.jpg",
+    "mime": "image/jpeg",
+    "bytes": 89464
+  },
+  {
+    "id": "collection-podcasts-13",
+    "title": "Frågar åt en kompis",
+    "matched": "Frågar Åt En Kompis",
+    "page": "https://podcasts.apple.com/se/podcast/fr%C3%A5gar-%C3%A5t-en-kompis/id1273717517?uo=4",
+    "score": 2.0,
+    "file": "covers/collection-podcasts-13.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/18/e2/7f18e244-13a6-f38a-f20a-4aaa9c14e9af/mza_10543827064890878888.jpg/600x600bb.jpg",
+    "mime": "image/jpeg",
+    "bytes": 102964
+  },
+  {
+    "id": "collection-youtube-1",
+    "file": "covers/collection-youtube-1.jpg",
+    "url": "https://i.ytimg.com/vi/TrhqMBGTLYU/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 42453
+  },
+  {
+    "id": "collection-youtube-2",
+    "file": "covers/collection-youtube-2.jpg",
+    "url": "https://i.ytimg.com/vi/PfzKwYBrJYI/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 29127
+  },
+  {
+    "id": "collection-youtube-3",
+    "file": "covers/collection-youtube-3.jpg",
+    "url": "https://i.ytimg.com/vi/L6ICeoBuvTs/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 32106
+  },
+  {
+    "id": "collection-youtube-4",
+    "file": "covers/collection-youtube-4.jpg",
+    "url": "https://i.ytimg.com/vi/Gqgg2RJt8Gw/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 31001
+  },
+  {
+    "id": "collection-youtube-5",
+    "file": "covers/collection-youtube-5.jpg",
+    "url": "https://i.ytimg.com/vi/qiezeXGANfo/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 30610
+  },
+  {
+    "id": "collection-youtube-6",
+    "file": "covers/collection-youtube-6.jpg",
+    "url": "https://i.ytimg.com/vi/IagVZI3ITB0/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 41132
+  },
+  {
+    "id": "collection-youtube-7",
+    "file": "covers/collection-youtube-7.jpg",
+    "url": "https://storylearning.com/wp-content/uploads/2024/02/Svenska-For-Alla.jpg",
+    "mime": "image/jpeg",
+    "bytes": 31066
+  },
+  {
+    "id": "collection-youtube-8",
+    "file": "covers/collection-youtube-8.jpg",
+    "url": "https://i.ytimg.com/vi/Ro-Tr-TYwlE/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 32689
+  },
+  {
+    "id": "collection-youtube-9",
+    "file": "covers/collection-youtube-9.jpg",
+    "url": "https://i.ytimg.com/vi/Xz4BWuC3lv8/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 42574
+  },
+  {
+    "id": "collection-youtube-10",
+    "file": "covers/collection-youtube-10.jpg",
+    "url": "https://i.ytimg.com/vi/d9SLpcQqBwo/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 21653
+  },
+  {
+    "id": "collection-youtube-11",
+    "file": "covers/collection-youtube-11.jpg",
+    "url": "https://i.ytimg.com/vi/i3KLifJYUrM/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 25425
+  },
+  {
+    "id": "collection-films-1",
+    "file": "covers/collection-films-1.jpg",
+    "url": "https://i.ytimg.com/vi/WBomTFACU44/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 35808
+  },
+  {
+    "id": "collection-films-2",
+    "file": "covers/collection-films-2.jpg",
+    "url": "https://i.ytimg.com/vi/_cxfLo-vjFI/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 10588
+  },
+  {
+    "id": "collection-films-3",
+    "file": "covers/collection-films-3.jpg",
+    "url": "https://i.ytimg.com/vi/B75F1vo5864/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 10995
+  },
+  {
+    "id": "collection-films-4",
+    "file": "covers/collection-films-4.jpg",
+    "url": "https://i.ytimg.com/vi/mN83l9Des3M/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 9468
+  },
+  {
+    "id": "collection-films-5",
+    "file": "covers/collection-films-5.jpg",
+    "url": "https://i.ytimg.com/vi/YmoeAk_jeiY/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 34963
+  },
+  {
+    "id": "collection-films-6",
+    "file": "covers/collection-films-6.jpg",
+    "url": "https://i.ytimg.com/vi/fmjKsL_-rfw/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 31456
+  },
+  {
+    "id": "collection-films-7",
+    "file": "covers/collection-films-7.jpg",
+    "url": "https://i.ytimg.com/vi/YUxc_2i-kK0/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 23447
+  },
+  {
+    "id": "collection-films-8",
+    "file": "covers/collection-films-8.jpg",
+    "url": "https://i.ytimg.com/vi/LhMCilR2Lok/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 28779
+  },
+  {
+    "id": "collection-films-9",
+    "file": "covers/collection-films-9.jpg",
+    "url": "https://i.ytimg.com/vi/8WCavWZIUic/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 9816
+  },
+  {
+    "id": "collection-films-10",
+    "file": "covers/collection-films-10.jpg",
+    "url": "https://i.ytimg.com/vi/B9hpl8e-lQ4/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 22818
+  },
+  {
+    "id": "collection-films-11",
+    "file": "covers/collection-films-11.jpg",
+    "url": "https://i.ytimg.com/vi/UeKns-alAN0/hqdefault.jpg",
+    "mime": "image/jpeg",
+    "bytes": 25702
+  },
+  {
+    "id": "collection-podcasts-5",
+    "file": "covers/collection-podcasts-5.jpg",
+    "url": "https://storylearning.com/wp-content/uploads/2024/01/Easy-Swedish-With-Viktoria.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 7464
+  },
+  {
+    "id": "collection-podcasts-8",
+    "file": "covers/collection-podcasts-8.jpg",
+    "url": "https://storylearning.com/wp-content/uploads/2024/01/Morgonstund-En-Kopp-Svenska.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 11773
+  },
+  {
+    "id": "seed-1",
+    "file": "covers/seed-1.svg",
+    "url": "https://sifa.stockholm/ui/assets/img/logotype.svg",
+    "mime": "image/svg+xml",
+    "bytes": 12060
+  },
+  {
+    "id": "seed-2",
+    "file": "covers/seed-2.svg",
+    "url": "https://www.kth.se/img/logotype-white-6f02f4554cba157ca832fa452bf242a4.svg",
+    "mime": "image/svg+xml",
+    "bytes": 56526
+  },
+  {
+    "id": "seed-3",
+    "file": "covers/seed-3.png",
+    "url": "https://www.skolverket.se/images/18.31c292d516e7445866a9c/1574163361667/ogimage.png",
+    "mime": "image/png",
+    "bytes": 28872
+  },
+  {
+    "id": "seed-4",
+    "file": "covers/seed-4.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg",
+    "mime": "image/svg+xml",
+    "bytes": 791
+  },
+  {
+    "id": "seed-6",
+    "file": "covers/seed-6.png",
+    "url": "https://lexin.nada.kth.se/lexin/img/logo_lexin.png",
+    "mime": "image/png",
+    "bytes": 2233
+  },
+  {
+    "id": "seed-7",
+    "file": "covers/seed-7.svg",
+    "url": "https://8sidor.se/app/themes/8sidor/src/front/images/8sidor-logo.svg",
+    "mime": "image/svg+xml",
+    "bytes": 7773
+  },
+  {
+    "id": "seed-8",
+    "file": "covers/seed-8.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/7d/59/dd7d59eb-7997-4648-d24d-e0ea8ff4f164/196874111130.jpg/600x600bb.jpg",
+    "mime": "image/jpeg",
+    "matched": "Superlim & silvertejp — Molly Sandén & Miriam Bryant",
+    "bytes": 90966
+  },
+  {
+    "id": "book-1",
+    "file": "covers/book-1.jpg",
+    "url": "https://www.hachette.co.uk/wp-content/uploads/2019/09/hbg-title-short-stories-in-swedish-for-beginners-275.jpg",
+    "mime": "image/jpeg",
+    "bytes": 570063,
+    "page": "https://www.hachette.co.uk/titles/olly-richards/short-stories-in-swedish-for-beginners/9781529302745/"
+  },
+  {
+    "id": "book-4",
+    "file": "covers/book-4.jpg",
+    "url": "https://images.rabensjogren.se/9cc78b70-b359-473e-9ea2-44e009952cfd",
+    "mime": "image/jpeg",
+    "bytes": 443439,
+    "page": "https://www.rabensjogren.se/bok/9789129654424/pippi-langstrump"
+  },
+  {
+    "id": "book-7",
+    "file": "covers/book-7.jpg",
+    "url": "https://astrid-lindgren.centracdn.net/client/dynamic/images/2036_2d52cc9218-900025-1-1350x0.jpg",
+    "mime": "image/jpeg",
+    "bytes": 92170,
+    "page": "https://www.astridlindgren.com/se/lillebror-och-karlsson-pa-taket-900025"
+  },
+  {
+    "id": "book-9",
+    "file": "covers/book-9.jpg",
+    "url": "https://images.norstedts.se/d68e725f-7f81-4398-b42a-667b912bf821",
+    "mime": "image/jpeg",
+    "bytes": 538710,
+    "page": "https://www.norstedts.se/bok/9789113066608/nya-svampboken-v499750"
+  },
+  {
+    "id": "book-3",
+    "file": "covers/book-3-web.jpg",
+    "url": "https://bilder.forlagssystem.se/9789189779266.jpg",
+    "mime": "image/jpeg",
+    "bytes": 335218
+  },
+  {
+    "id": "book-5",
+    "file": "covers/book-5.jpg",
+    "url": "https://bilder.forlagssystem.se/9789523331112.jpg",
+    "mime": "image/jpeg",
+    "bytes": 47804
+  },
+  {
+    "id": "book-6",
+    "file": "covers/book-6.jpg",
+    "url": "https://www.nok.se/imagevault/publishedmedia/x0k9fp8g4pfbv0u6rmea/9789127146716_Fantastiska_fakta_om_djur.jpg",
+    "mime": "image/jpeg",
+    "bytes": 23977
+  },
+  {
+    "id": "book-10",
+    "file": "covers/book-10.jpg",
+    "url": "https://bilder.forlagssystem.se/9789170535130.jpg",
+    "mime": "image/jpeg",
+    "bytes": 38048
+  },
+  {
+    "id": "site-swedish-for-all",
+    "file": "covers/site-swedish-for-all.png",
+    "mime": "image/png",
+    "url": "https://swedish-for-all.se/wp-content/uploads/2015/11/logo1.png"
+  },
+  {
+    "id": "site-hejsvenska",
+    "file": "covers/site-hejsvenska.jpg",
+    "mime": "image/jpeg",
+    "url": "https://hejsvenska.se/interface/top_logo1.jpg"
+  },
+  {
+    "id": "show-terese",
+    "file": "covers/show-terese.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/483/1209789.jpg"
+  },
+  {
+    "id": "show-familjen-andersson",
+    "file": "covers/show-familjen-andersson.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/478/1195721.jpg"
+  },
+  {
+    "id": "show-gransfall",
+    "file": "covers/show-gransfall.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/553/1383806.jpg"
+  },
+  {
+    "id": "show-alska-mig",
+    "file": "covers/show-alska-mig.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/278/697447.jpg"
+  },
+  {
+    "id": "show-love-is-blind",
+    "file": "covers/show-love-is-blind.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/499/1248524.jpg"
+  },
+  {
+    "id": "show-gift",
+    "file": "covers/show-gift.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/104/260297.jpg"
+  },
+  {
+    "id": "show-trolosa",
+    "file": "covers/show-trolosa.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/630/1575128.jpg"
+  },
+  {
+    "id": "show-tore",
+    "file": "covers/show-tore.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/483/1208595.jpg"
+  },
+  {
+    "id": "show-sjukt-oklar",
+    "file": "covers/show-sjukt-oklar.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/266/666745.jpg"
+  },
+  {
+    "id": "show-antligen",
+    "file": "covers/show-antligen.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/603/1508216.jpg"
+  },
+  {
+    "id": "show-sjukt",
+    "file": "covers/show-sjukt.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/472/1180689.jpg"
+  },
+  {
+    "id": "show-noa-nyman",
+    "file": "covers/show-noa-nyman.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/599/1499175.jpg"
+  },
+  {
+    "id": "show-osannolika",
+    "file": "covers/show-osannolika.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/360/900159.jpg"
+  },
+  {
+    "id": "show-vanlig-familj",
+    "file": "covers/show-vanlig-familj.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/488/1221154.jpg"
+  },
+  {
+    "id": "show-aremorden",
+    "file": "covers/show-aremorden.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/554/1385070.jpg"
+  },
+  {
+    "id": "show-sandhamn",
+    "file": "covers/show-sandhamn.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/268/671414.jpg"
+  },
+  {
+    "id": "show-fallet",
+    "file": "covers/show-fallet.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/157/393516.jpg"
+  },
+  {
+    "id": "show-hitta-hem",
+    "file": "covers/show-hitta-hem.jpg",
+    "mime": "image/jpeg",
+    "url": "https://some-assets.ur.se/some/urplay/223108/hd.jpg"
+  },
+  {
+    "id": "show-trevlig-helg",
+    "file": "covers/show-trevlig-helg.jpg",
+    "mime": "image/jpeg",
+    "url": "https://www.svtstatic.se/image/custom/1144/35140871/1686135470?format=auto&chromaSubSampling=false&enableAvif=true&quality=85"
+  },
+  {
+    "id": "show-karlek-anarki",
+    "file": "covers/show-karlek-anarki.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/282/705004.jpg"
+  },
+  {
+    "id": "show-slapp-taget",
+    "file": "covers/show-slapp-taget.jpg",
+    "mime": "image/jpeg",
+    "url": "https://occ-0-8955-38.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcCDUGPilsVtIwx1MkwA97fGUl03rTEoJC9Tqezk8-c9CzO0-_9TBABjNIZ5f8h0_4hxnNjravROwAsj-7fvLwzIbs4J2ayDq7Ar.jpg?r=60d"
+  },
+  {
+    "id": "show-anxious",
+    "file": "covers/show-anxious.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/382/956687.jpg"
+  },
+  {
+    "id": "show-quicksand",
+    "file": "covers/show-quicksand.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/619/1549368.jpg"
+  },
+  {
+    "id": "show-bron",
+    "file": "covers/show-bron.jpg",
+    "mime": "image/jpeg",
+    "url": "https://www.svtstatic.se/image/custom/1144/50772716/1698392746?format=auto&chromaSubSampling=false&enableAvif=true&quality=85"
+  },
+  {
+    "id": "show-kalifat",
+    "file": "covers/show-kalifat.jpg",
+    "mime": "image/jpeg",
+    "url": "https://www.svtstatic.se/image/custom/1144/25107054/1686136888?format=auto&chromaSubSampling=false&enableAvif=true&quality=85"
+  },
+  {
+    "id": "show-synden",
+    "file": "covers/show-synden.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/606/1515107.jpg"
+  },
+  {
+    "id": "show-young-royals",
+    "file": "covers/show-young-royals.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.tvmaze.com/uploads/images/original_untouched/523/1307898.jpg"
+  },
+  {
+    "id": "show-trettiplus",
+    "file": "covers/show-trettiplus.jpg",
+    "mime": "image/jpeg",
+    "url": "https://www.svtstatic.se/image/custom/1144/12879624/1686137927?format=auto&chromaSubSampling=false&enableAvif=true&quality=85"
+  },
+  {
+    "id": "show-tunna-bla-linjen",
+    "file": "covers/show-tunna-bla-linjen.jpg",
+    "mime": "image/jpeg",
+    "url": "https://www.svtstatic.se/image/custom/1144/51982303/1728045694?format=auto&chromaSubSampling=false&enableAvif=true&quality=85"
+  },
+  {
+    "id": "show-halla-samman",
+    "file": "covers/show-halla-samman.jpg",
+    "mime": "image/jpeg",
+    "url": "https://www.svtstatic.se/image/custom/1144/50655468/1694785309?format=auto&chromaSubSampling=false&enableAvif=true&quality=85"
+  },
+  {
+    "id": "shadow-grannar",
+    "file": "covers/shadow-grannar.jpg",
+    "mime": "image/jpeg",
+    "url": "https://some-assets.ur.se/some/urplay/236391/hd.jpg"
+  },
+  {
+    "id": "shadow-studera",
+    "file": "covers/shadow-studera.jpg",
+    "mime": "image/jpeg",
+    "url": "https://some-assets.ur.se/some/urplay/232022/hd.jpg"
+  }
+]

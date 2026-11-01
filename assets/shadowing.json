@@ -1,0 +1,85 @@
+{
+  "resources": [
+    {
+      "id": "shadow-grannar",
+      "title": "Grannar",
+      "category": "films",
+      "subcategory": "SFI 入门",
+      "level": "A1–A2",
+      "mediaType": "series",
+      "url": "https://urplay.se/serie/236391-grannar",
+      "description": "UR Play 的简单瑞典语生活短剧，围绕邻里日常对话展开。单集约 3–4 分钟，配有瑞典语字幕，适合反复模仿不同人物的语气；文本与练习资料请查看对应节目的教学材料。"
+    },
+    {
+      "id": "shadow-studera",
+      "title": "Studera svenska",
+      "category": "learning",
+      "subcategory": "跟读练习",
+      "level": "A1–A2",
+      "url": "https://urplay.se/serie/232022-studera-svenska",
+      "description": "UR Play 为瑞典语学习者制作的短视频，分享日常学习方法。单集约 2–3 分钟，适合选短句练习句子重音，字幕语言与可用资料以节目页面为准。"
+    }
+  ],
+  "guides": {
+    "shadow-grannar": {
+      "level": "A1–A2+",
+      "steps": [
+        "先看一遍，理解人物在什么情境下说话。",
+        "选 20–30 秒，对照字幕逐句跟读，模仿语气和停顿。",
+        "关掉声音扮演其中一个角色，再录音对比。"
+      ],
+      "links": [
+        {
+          "label": "UR Play 观看与教学材料",
+          "url": "https://urplay.se/serie/236391-grannar"
+        }
+      ]
+    },
+    "collection-podcasts-9": {
+      "level": "A2–B1",
+      "steps": [
+        "先选一条约 2 分钟的新闻，完整听一遍。",
+        "每次截取一两句话，模仿清楚的发音和句子重音。",
+        "用自己的话复述新闻，再逐步挑战完整节目。"
+      ],
+      "links": [
+        {
+          "label": "Sveriges Radio 收听",
+          "url": "https://www.sverigesradio.se/radio-sweden-pa-latt-svenska"
+        }
+      ]
+    },
+    "collection-podcasts-11": {
+      "level": "A2–B1",
+      "steps": [
+        "先阅读相关的简明新闻，标出不熟悉的词。",
+        "听对应内容，按句暂停并跟读；不同音频不一定与文章逐字一致。",
+        "关掉文本，用三句话复述今天的一条新闻。"
+      ],
+      "links": [
+        {
+          "label": "8 Sidor 阅读",
+          "url": "https://8sidor.se/"
+        },
+        {
+          "label": "收听 Podcast",
+          "url": "https://podcasts.apple.com/se/podcast/8-sidor/id1331393097"
+        }
+      ]
+    },
+    "shadow-studera": {
+      "level": "A2",
+      "steps": [
+        "选一个 2–3 分钟的短视频，结合字幕理解内容。",
+        "每次练一句，留意重读词、长短元音和连读。",
+        "先跟着说，再独立说，最后录音比较节奏。"
+      ],
+      "links": [
+        {
+          "label": "UR Play 观看",
+          "url": "https://urplay.se/serie/232022-studera-svenska"
+        }
+      ]
+    }
+  }
+}
