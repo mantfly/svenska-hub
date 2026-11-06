@@ -1,0 +1,39 @@
+{
+  "checked": "2026-11-06",
+  "intro": "SIFA 的不同项目门槛不同；先区分普通强化瑞典语与职业定向 Sfx。录取由 Vuxenutbildningscentrum 按资格及名额办理。",
+  "sections": [
+    {
+      "title": "强化瑞典语 · Intensive studies",
+      "items": [
+        "官网列出的身份条件：瑞典个人身份号码，或 EU／EEA／瑞士公民；乌克兰难民可使用税务局协调号码申请。",
+        "年龄超过 16 岁，并符合 SFI 学习路径 3（studieväg 3）的要求。",
+        "按现有瑞典语程度安排入学；可衔接的范围为 SFI CT 至基础瑞典语作为第二语言模块 4。",
+        "住在 Stockholm 市内：按官网课堂／远程申请表办理。住在其他市镇：先向居住地市镇提交申请表，办理跨市批准。"
+      ],
+      "url": "https://sifa.stockholm/how-to-apply/apply-to-intensive-swedish/"
+    },
+    {
+      "title": "职业定向 · Sfx",
+      "items": [
+        "SFEJ（经济／法律／社会科学）：至少三年可证明的相关高等教育；英语需达到官网标注的 English 2。项目针对失业的专业人士，其他申请者可考虑非职业定向强化课程。",
+        "SFINX（工程师／建筑师）与 SFP（教育工作者）有各自的专业背景及材料要求，请分别核对对应申请指南，不套用 SFEJ 的条件。",
+        "非 Stockholm 市居民申请 Sfx 时，需取得居住地市镇的批准。"
+      ],
+      "url": "https://sifa.stockholm/how-to-apply/"
+    }
+  ],
+  "links": [
+    {
+      "label": "工程师／建筑师 · SFINX",
+      "url": "https://sifa.stockholm/how-to-apply/apply-to-sfx-sfinx/"
+    },
+    {
+      "label": "教育工作者 · SFP",
+      "url": "https://sifa.stockholm/how-to-apply/apply-to-sfx-sfp/"
+    },
+    {
+      "label": "经济／法律／社会科学 · SFEJ",
+      "url": "https://sifa.stockholm/how-to-apply/apply-to-sfx-sfej/"
+    }
+  ]
+}

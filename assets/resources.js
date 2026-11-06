@@ -1,7 +1,7 @@
 const initial=[
 {title:"SFI — 全国介绍与各地申请",category:'courses',subcategory:'SFI',level:'A1–A2',url:"https://utbildningsguiden.skolverket.se/utbildning-for-vuxna/om-utbildningar-for-vuxna/om-komvux-i-svenska-for-invandrare-sfi",description:"从 Skolverket 全国教育指南了解 SFI，再按居住地查找市镇（kommun）的申请入口。SFI 通常由居住地市镇受理，并没有统一的全国申请表；具体资格和办理方式以当地官网为准。"},
-{title:'SIFA — 免费瑞典语课程申请',category:'courses',subcategory:'SIFA',level:'全部',url:'https://sifa.stockholm/how-to-apply/',description:'斯德哥尔摩 SIFA 官方申请信息；跨市申请应核实居住地市政府的批准要求。'},
-{title:'KTH — 免费瑞典语入门课程',category:'courses',subcategory:'KTH',level:'A1–A2',url:'https://www.kth.se/en/larande/sprak/utbildning/sprak/swe/introduktion-till-svenska-spraket-1.813214',description:'Introduction to the Swedish language：符合条件的 KTH 首学期付费学位生（含该类奖学金学生）及 Study Abroad 项目学生可申请，课程免费、不计学分。不面向校外公众开放；申请资格与时间以官网为准。'},
+{title:'SIFA — 免费瑞典语课程申请',category:'courses',subcategory:'SIFA',level:'全部',url:'https://sifa.stockholm/how-to-apply/',description:"提供强化瑞典语与职业定向 Sfx，门槛因项目而异。强化课程要求符合 SFI 学习路径 3；职业定向项目另有专业背景等要求。跨市申请需向居住地市镇办理批准，详情页列出条件与官方指南。"},
+{title:'KTH — 免费瑞典语入门课程',category:'courses',subcategory:'大学课程',level:'A1–A2',url:'https://www.kth.se/en/larande/sprak/utbildning/sprak/swe/introduktion-till-svenska-spraket-1.813214',description:'Introduction to the Swedish language：符合条件的 KTH 首学期付费学位生（含该类奖学金学生）及 Study Abroad 项目学生可申请，课程免费、不计学分。不面向校外公众开放；申请资格与时间以官网为准。'},
 {title:'SFI 官方课程标准',category:'levels',subcategory:'SFI A–D',level:'全部',url:'https://syllabuswebb.skolverket.se/syllabuscw/jsp/sfi.htm',description:'查看 SFI A–D 的官方课程要求与能力标准。'},
 {title:'CEFR 自我评估表',category:'levels',subcategory:'CEFR A1–C2',level:'全部',url:'https://www.coe.int/en/web/portfolio/self-assessment-grid',description:'欧洲语言共同参考框架的分级能力描述。'},
 {title:'Svenska.se',category:'learning',subcategory:'词汇',level:'全部',url:'https://svenska.se/',description:'瑞典语词典资源，可查词义、词形及规范用法。'},
