@@ -71,3 +71,6 @@ html,body{height:100%;overflow:hidden}.app{height:100dvh;min-height:0;align-item
 .cards>.empty{grid-column:1/-1}
 @media(max-width:1180px){.cards:not(.listmode),body[data-category="podcasts"] .cards:not(.listmode){grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 20px}}
 @media(max-width:700px){.cards:not(.listmode),body[data-category="podcasts"] .cards:not(.listmode){grid-template-columns:minmax(0,1fr);gap:28px}.cards.listmode .pin-card{grid-template-columns:100px minmax(0,1fr);gap:12px}.cards.listmode .pin-caption{padding:0!important}}
+
+/* Display complete official university marks without cropping. */
+.cards .actual-cover.site-school-su,.cards .actual-cover.site-school-gu,.detail-cover .site-school-su,.detail-cover .site-school-gu{object-fit:contain;padding:22px;background:#fffdf7}
