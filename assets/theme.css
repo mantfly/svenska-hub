@@ -62,3 +62,12 @@ html,body{height:100%;overflow:hidden}.app{height:100dvh;min-height:0;align-item
 .shadowing-guide{margin:26px 0;padding:22px;border:1px solid var(--line);border-radius:20px;background:#fff3d9}.shadowing-guide ol{padding-left:22px;font-size:14px;line-height:1.9}.shadowing-guide li{margin:8px 0}.shadowing-links{display:flex;gap:10px;flex-wrap:wrap}.shadowing-guide .section-row{flex-wrap:wrap;gap:8px}
 
 .sifa-requirements{margin:28px 0 34px;padding:22px;border:1px solid var(--line);border-radius:20px;background:#fff8e9}.sifa-requirements p,.sifa-requirements li{font-size:14px;line-height:1.8}.sifa-requirements section{margin:24px 0}.sifa-requirements li{margin:8px 0}.sifa-requirements ul{padding-left:20px}.sifa-requirements h3{font-size:16px}
+
+/* One row-based layout for filtered, mixed and full resource collections. */
+.cards:not(.listmode),body[data-category="podcasts"] .cards:not(.listmode){display:grid;columns:auto;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px 24px;align-items:start;align-content:start;padding-top:7px}
+.cards:not(.listmode) .pin-card,body[data-category="podcasts"] .cards:not(.listmode) .pin-card{display:flex;flex-direction:column;width:100%;min-width:0;margin:0;break-inside:auto;align-self:start}
+.pin-card .pin-media,.pin-card .pin-caption{width:100%;min-width:0}.pin-card .pin-media{flex:none}.pin-card h3,.pin-card .card-link{overflow-wrap:anywhere}.pin-card .card-link{max-width:100%;text-align:left}
+.cards.listmode{columns:auto;display:grid;grid-template-columns:minmax(0,1fr);gap:16px;align-content:start}.cards.listmode .pin-card{min-width:0;margin:0}.cards.listmode .pin-caption{min-width:0}
+.cards>.empty{grid-column:1/-1}
+@media(max-width:1180px){.cards:not(.listmode),body[data-category="podcasts"] .cards:not(.listmode){grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 20px}}
+@media(max-width:700px){.cards:not(.listmode),body[data-category="podcasts"] .cards:not(.listmode){grid-template-columns:minmax(0,1fr);gap:28px}.cards.listmode .pin-card{grid-template-columns:100px minmax(0,1fr);gap:12px}.cards.listmode .pin-caption{padding:0!important}}
