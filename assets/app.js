@@ -1,5 +1,5 @@
 'use strict';
-const groups=[{id:'courses',name:'课程与申请',subs:['SFI','SIFA','KTH']},{id:'podcasts',name:'Podcast 播客',subs:[]},{id:'youtube',name:'YouTube 频道',subs:[]},{id:'films',name:'电影 / 电视剧',subs:['SFI 入门','生活喜剧','爱情与关系','会心一笑','生活与家庭','青春成长','悬疑']},{id:'levels',name:'语言等级',subs:['SFI A–D','CEFR A1–C2']},{id:'learning',name:'学习资料',subs:['跟读练习','学习网站','语法','词汇','阅读与词典']},{id:'books',name:'书籍推荐',subs:['已读','在读','计划中']},{id:'music',name:'听歌学瑞典语',subs:['歌曲合集','歌词与词汇解析']},{id:'notes',name:'我的学习笔记',subs:['个人笔记','收藏的资源']}];
+const groups=[{id:'courses',name:'课程与申请',subs:['SFI','SIFA','KTH','其他大学']},{id:'podcasts',name:'Podcast 播客',subs:[]},{id:'youtube',name:'YouTube 频道',subs:[]},{id:'films',name:'电影 / 电视剧',subs:['SFI 入门','生活喜剧','爱情与关系','会心一笑','生活与家庭','青春成长','悬疑']},{id:'levels',name:'语言等级',subs:['SFI A–D','CEFR A1–C2']},{id:'learning',name:'学习资料',subs:['跟读练习','学习网站','语法','词汇','阅读与词典']},{id:'books',name:'书籍推荐',subs:['已读','在读','计划中']},{id:'music',name:'听歌学瑞典语',subs:['歌曲合集','歌词与词汇解析']},{id:'notes',name:'我的学习笔记',subs:['个人笔记','收藏的资源']}];
 const navIcons={books:'book',courses:'book',podcasts:'headphones',youtube:'video',films:'film',levels:'levels',learning:'library',music:'music',notes:'edit',saved:'heart'};
 const shortLabels={books:'书籍',courses:'课程',podcasts:'播客',youtube:'视频',films:'影视',levels:'等级',learning:'资料',music:'音乐',notes:'笔记'};
 const positions={home:60,courses:60,podcasts:171,youtube:282,films:391,levels:502,learning:502,music:613,notes:724,saved:724};
@@ -59,6 +59,9 @@ if(!hadStorage||!shadowAdded){for(const r of shadowing.resources){if(!records.so
  const news=records.find(x=>x.id==='collection-podcasts-11');if(news)news.description+=' 跟读推荐 A2–B1：先读简明新闻，再听音频，最后跟读与复述。';
  try{localStorage.setItem('svenska_shadowing_v1','1')}catch{}
 }
+const schoolCourses=__SCHOOL_COURSES__;
+let schoolsAdded=false;try{schoolsAdded=localStorage.getItem('svenska_schools_v1')==='1'}catch{}
+if(!hadStorage||!schoolsAdded){for(const r of schoolCourses){if(!records.some(x=>x.id===r.id||x.category==='courses'&&x.url===r.url))records.push({...r,saved:false,notes:[]})}try{localStorage.setItem('svenska_schools_v1','1')}catch{}}
 const coverCatalog=__COVERS__;
 function imageFor(r){const match=coverCatalog[r.id]||Object.values(coverCatalog).find(c=>c.title===r.title&&c.category===r.category);return match?.image||''}
 let current='home',sub='',filter='全部',view='grid',q='',previousFocus=null;

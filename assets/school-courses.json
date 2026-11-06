@@ -1,0 +1,47 @@
+[
+  {
+    "id": "school-su",
+    "title": "斯德哥尔摩大学 SU — 瑞典语课程",
+    "category": "courses",
+    "subcategory": "其他大学",
+    "level": "全部",
+    "url": "https://www.su.se/english/divisions/department-of-swedish-language-and-multilingualism/education/courses-and-programmes/swedish-for-international-students",
+    "description": "仅面向在 SU 修读至少 15 ECTS、符合规定的国际学生（交换、学位或同等协议）。通过官网的初学者登记或分级测试申请；不是面向校外公众的免费报名入口，费用及申请期以对应课程为准。"
+  },
+  {
+    "id": "school-uu",
+    "title": "乌普萨拉大学 UU — Basic Swedish",
+    "category": "courses",
+    "subcategory": "其他大学",
+    "level": "全部",
+    "url": "https://www.uu.se/en/department/scandinavian-languages/study/application-basic-swedish",
+    "description": "面向 UU 国际本科、硕士和交换学生，课程免费。付费学位生可按规定免费旁听，但不注册课程或取得学分。通过官方申请说明选择身份对应入口；Uppsala 与 Visby 的流程可能不同。"
+  },
+  {
+    "id": "school-lund",
+    "title": "隆德大学 LU — SVEE 申请",
+    "category": "courses",
+    "subcategory": "其他大学",
+    "level": "全部",
+    "url": "https://www.sol.lu.se/en/sfs/swedish-for-exchange-students/svee-application-and-placement/",
+    "description": "面向符合条件的隆德交换学生，需将 SVEE 与其他交换课程一并申请，并联系 LU 协调员。LTH 学生入门课程可能使用 EXTA 代码。不是校外公众报名入口；课程资格、费用与本学期安排请核实官方说明。"
+  },
+  {
+    "id": "school-gu",
+    "title": "哥德堡大学 GU — Basic Swedish",
+    "category": "courses",
+    "subcategory": "其他大学",
+    "level": "全部",
+    "url": "https://studentportal.gu.se/en/service-and-support/basic-swedish-for-international-students",
+    "description": "面向哥德堡大学国际学生的免费基础瑞典语课程。按官网说明选择程度并报名；有学习经历者需留意分级要求。不是校外公众申请入口，名额及报名期以学生门户为准。"
+  },
+  {
+    "id": "school-liu",
+    "title": "林雪平大学 LiU — 瑞典语课程",
+    "category": "courses",
+    "subcategory": "其他大学",
+    "level": "全部",
+    "url": "https://liu.se/en/article/swedish-language-courses",
+    "description": "面向 LiU 国际学位生与交换生，须先获 LiU 录取。非付费学生免费，付费学生需按官网缴费。交换生随交换课程在 MoveON 申请；其他符合条件学生按页面表格申请。"
+  }
+]

@@ -619,5 +619,35 @@
     "file": "covers/shadow-studera.jpg",
     "mime": "image/jpeg",
     "url": "https://some-assets.ur.se/some/urplay/232022/hd.jpg"
+  },
+  {
+    "id": "school-su",
+    "file": "covers/school-su.svg",
+    "mime": "image/svg+xml",
+    "url": "https://www.su.se/english/divisions/department-of-swedish-language-and-multilingualism/education/courses-and-programmes/swedish-for-international-students"
+  },
+  {
+    "id": "school-uu",
+    "file": "covers/school-uu.jpg",
+    "mime": "image/jpeg",
+    "url": "https://www.uu.se/images/18.5be8bc7419873548673200/1754285818920/uu-logo-red-white-background.png"
+  },
+  {
+    "id": "school-lund",
+    "file": "covers/school-lund.jpg",
+    "mime": "image/jpeg",
+    "url": "https://www.sol.lu.se/_assets/57618afcb0789ce7164b711bb01f73a5/Images/lu-logo-280x280px.png"
+  },
+  {
+    "id": "school-gu",
+    "file": "covers/school-gu.svg",
+    "mime": "image/svg+xml",
+    "url": "https://studentportal.gu.se/en/service-and-support/basic-swedish-for-international-students"
+  },
+  {
+    "id": "school-liu",
+    "file": "covers/school-liu.jpg",
+    "mime": "image/jpeg",
+    "url": "https://static.liu.se/mf/8593369_n_0_560_58_373_560_373_640_v1tfipg3.webp"
   }
 ]
