@@ -74,3 +74,5 @@ html,body{height:100%;overflow:hidden}.app{height:100dvh;min-height:0;align-item
 
 /* Display complete official university marks without cropping. */
 .cards .actual-cover.site-school-su,.cards .actual-cover.site-school-gu,.detail-cover .site-school-su,.detail-cover .site-school-gu{object-fit:contain;padding:22px;background:#fffdf7}
+/* SU's official horizontal mark is white and needs a dark backdrop. */
+.cards .actual-cover.site-school-su,.detail-cover .site-school-su{background:#002f5f}
