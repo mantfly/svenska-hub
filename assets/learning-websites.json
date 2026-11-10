@@ -1,4 +1,32 @@
 [
- {"id":"site-swedish-for-all","title":"Swedish for All — SFI 学习指南","category":"learning","subcategory":"学习网站","level":"全部","url":"https://swedish-for-all.se/sfi-steg-learning-steps/om-sfi-about-sfi/","description":"SFI 简介与分步学习资源入口，涵盖字母、发音、日常主题、词汇和语法。","saved":false},
- {"id":"site-hejsvenska","title":"Hej svenska!","category":"learning","subcategory":"学习网站","level":"全部","url":"https://hejsvenska.se/index1.html","description":"在线瑞典语练习网站，可进入不同学习内容进行练习。","saved":false}
+  {
+    "id": "site-swedish-for-all",
+    "title": "Swedish for All — SFI 学习指南",
+    "category": "learning",
+    "subcategory": "学习网站",
+    "level": "全部",
+    "url": "https://swedish-for-all.se/sfi-steg-learning-steps/om-sfi-about-sfi/",
+    "description": "SFI 简介与分步学习资源入口，涵盖字母、发音、日常主题、词汇和语法。",
+    "saved": false
+  },
+  {
+    "id": "site-hejsvenska",
+    "title": "Hej svenska!",
+    "category": "learning",
+    "subcategory": "学习网站",
+    "level": "全部",
+    "url": "https://hejsvenska.se/index1.html",
+    "description": "在线瑞典语练习网站，可进入不同学习内容进行练习。",
+    "saved": false
+  },
+  {
+    "id": "tool-immersive-translate",
+    "title": "沉浸式翻译 · Immersive Translate",
+    "category": "learning",
+    "subcategory": "学习工具",
+    "level": "全部",
+    "url": "https://chromewebstore.google.com/detail/immersive-translate-ai-we/bpoadfkcbjbfhfodiogcnhhhpibjhbnh",
+    "description": "浏览器翻译扩展，支持网页双语对照、文档翻译和部分视频平台双语字幕。学瑞典语时可先读原文，再对照中文理解，配合新闻、课程网页和视频使用。部分高级功能或翻译服务需付费，具体支持以官方说明为准。",
+    "saved": false
+  }
 ]

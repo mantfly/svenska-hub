@@ -649,5 +649,11 @@
     "file": "covers/school-liu.jpg",
     "mime": "image/jpeg",
     "url": "https://static.liu.se/mf/8593369_n_0_560_58_373_560_373_640_v1tfipg3.webp"
+  },
+  {
+    "id": "tool-immersive-translate",
+    "file": "covers/tool-immersive-translate.png",
+    "mime": "image/png",
+    "url": "https://immersivetranslate.com/_next/static/media/logo.761c1cd1.png"
   }
 ]

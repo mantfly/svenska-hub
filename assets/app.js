@@ -1,5 +1,5 @@
 'use strict';
-const groups=[{id:'courses',name:'课程与申请',subs:['SFI','SIFA','大学课程']},{id:'podcasts',name:'Podcast 播客',subs:[]},{id:'youtube',name:'YouTube 频道',subs:[]},{id:'films',name:'电影 / 电视剧',subs:['SFI 入门','生活喜剧','爱情与关系','会心一笑','生活与家庭','青春成长','悬疑']},{id:'levels',name:'语言等级',subs:['SFI A–D','CEFR A1–C2']},{id:'learning',name:'学习资料',subs:['跟读练习','学习网站','语法','词汇','阅读与词典']},{id:'books',name:'书籍推荐',subs:['已读','在读','计划中']},{id:'music',name:'听歌学瑞典语',subs:['歌曲合集','歌词与词汇解析']},{id:'notes',name:'我的学习笔记',subs:['个人笔记','收藏的资源']}];
+const groups=[{id:'courses',name:'课程与申请',subs:['SFI','SIFA','大学课程']},{id:'podcasts',name:'Podcast 播客',subs:[]},{id:'youtube',name:'YouTube 频道',subs:[]},{id:'films',name:'电影 / 电视剧',subs:['SFI 入门','生活喜剧','爱情与关系','会心一笑','生活与家庭','青春成长','悬疑']},{id:'levels',name:'语言等级',subs:['SFI A–D','CEFR A1–C2']},{id:'learning',name:'学习资料',subs:['跟读练习','学习工具','学习网站','语法','词汇','阅读与词典']},{id:'books',name:'书籍推荐',subs:['已读','在读','计划中']},{id:'music',name:'听歌学瑞典语',subs:['歌曲合集','歌词与词汇解析']},{id:'notes',name:'我的学习笔记',subs:['个人笔记','收藏的资源']}];
 const navIcons={books:'book',courses:'school',podcasts:'headphones',youtube:'video',films:'film',levels:'levels',learning:'library',music:'music',notes:'edit',saved:'heart'};
 const shortLabels={books:'书籍',courses:'课程',podcasts:'播客',youtube:'视频',films:'影视',levels:'等级',learning:'资料',music:'音乐',notes:'笔记'};
 const positions={home:60,courses:60,podcasts:171,youtube:282,films:391,levels:502,learning:502,music:613,notes:724,saved:724};
@@ -35,6 +35,8 @@ if(!sfiNational){const r=records.find(x=>x.id==='seed-0'&&x.category==='courses'
 const learningSites=__LEARNING_SITES__;
 let sitesAdded=false;try{sitesAdded=localStorage.getItem('svenska_learning_sites_v1')==='1'}catch{}
 if(!hadStorage||!sitesAdded){for(const r of learningSites){if(!records.some(x=>x.id===r.id||x.url===r.url))records.push({...r,notes:[]})}try{localStorage.setItem('svenska_learning_sites_v1','1')}catch{}}
+let immersiveAdded=false;try{immersiveAdded=localStorage.getItem('svenska_immersive_v1')==='1'}catch{}
+if(!hadStorage||!immersiveAdded){const r=learningSites.find(x=>x.id==='tool-immersive-translate');if(r&&!records.some(x=>x.id===r.id||x.url===r.url))records.push({...r,notes:[]});try{localStorage.setItem('svenska_immersive_v1','1')}catch{}}
 const bookSeeds=__BOOKS__;
 let booksMigrated=false;try{booksMigrated=localStorage.getItem('svenska_books_v1')==='1'}catch{}
 if(!hadStorage||!booksMigrated){for(const r of bookSeeds){if(!records.some(x=>x.id===r.id||x.category==='books'&&x.title===r.title))records.push({...r,notes:[]})}try{localStorage.setItem('svenska_books_v1','1')}catch{}}
